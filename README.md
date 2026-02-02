@@ -2,7 +2,7 @@
 
 #### This website shows the daily AQI of approximately 250 Indian cities by pulling data from [India's Pollution Control Board](https://cpcb.nic.in/AQI_Bulletin.php).
 
-**Link to the project:** [hazel-gandhi.github.io/Auto-updating-AQI-website/](https://hazel-gandhi.github.io/Auto-updating-AQI-website/)
+**Link to the project:** [https://hazel-gandhi.github.io/auto-updating-site/](https://hazel-gandhi.github.io/auto-updating-site/)
 
 
 ## Folder Guide
